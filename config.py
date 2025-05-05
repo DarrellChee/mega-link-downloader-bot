@@ -1,10 +1,10 @@
-API_ID          = 123456
-API_HASH        = "0123456789abcdef0123456789abcdef"
-TG_BOT_TOKEN    = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
-BOT_USERNAME    = "@MyMegaBot"
+API_ID          = 26326014
+API_HASH        = "32c9ed7c079e2f320c853280ab1ba65f" 
+TG_BOT_TOKEN    = "7010822434:AAEc9oHlj5rRyLvuhtEHyajblyLHDp_tIPg"
+BOT_USERNAME    = "@mega_link_upload_bot"
 OWNER_ID        = 5758458027        # your personal Telegram user‑id
 AUTH_USERS      = [5758458027]      # list of ids allowed multi‑tasking
-REDIS_URI       = "redis://:password@hostname:port/0"
-REDIS_PASS      = "password"
+REDIS_URI       = "rediss://:p513f08bbd00981638f5b796f349d416b3e03ee365bf4a62c27a4328e2bbac4b4@ec2-3-226-113-213.compute-1.amazonaws.com:28530"
+REDIS_PASS      = "p513f08bbd00981638f5b796f349d416b3e03ee365bf4a62c27a4328e2bbac4b4"
 MEGA_EMAIL      = ""               
 MEGA_PASSWORD   = ""               
