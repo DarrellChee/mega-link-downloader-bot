@@ -1,0 +1,10 @@
+API_ID          = 123456
+API_HASH        = "0123456789abcdef0123456789abcdef"
+TG_BOT_TOKEN    = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+BOT_USERNAME    = "@MyMegaBot"
+OWNER_ID        = 5758458027        # your personal Telegram user‑id
+AUTH_USERS      = [5758458027]      # list of ids allowed multi‑tasking
+REDIS_URI       = "redis://:password@hostname:port/0"
+REDIS_PASS      = "password"
+MEGA_EMAIL      = ""               
+MEGA_PASSWORD   = ""               
